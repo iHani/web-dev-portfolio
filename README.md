@@ -17,3 +17,6 @@
   
 * **[Textmani](https://github.com/iHani/textmani)**
   Online tool in JavaScript to manipulate text.
+
+#### Stackoverflow Developer Story
+  https://stackoverflow.com/story/ihani
