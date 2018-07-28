@@ -1,5 +1,8 @@
 # Projects
 
+* **[Deals Provider System](https://github.com/iHani/my-deals)**
+  Application for creating and managing deals.
+
 * **[Readable App](https://github.com/iHani/readable-app)**
    Blogging app with React and Redux.
 
