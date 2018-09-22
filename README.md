@@ -1,5 +1,8 @@
 # Projects
 
+* **[Movie Search App](https://github.com/iHani/movie-search-app)**
+  React/Redux app to query OMDB Database by movie title, caching results with Redis.
+
 * **[Deals Provider System](https://github.com/iHani/my-deals)**
   Application for creating and managing deals.
 
