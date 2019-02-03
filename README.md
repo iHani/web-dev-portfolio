@@ -21,8 +21,8 @@
 * **[Rawateb](https://github.com/iHani/rawateb)**
   React app to calculate and display the salary for goverment employees in Saudi.
   
-* **[Textmani](https://github.com/iHani/textmani)**
-  Online tool in JavaScript to manipulate text.
+* **[Textmani](https://github.com/ihani/textmani-react)**
+  React SPA - Online tool to manipulate text, detect language, compare text, and more.
 
 #### Stackoverflow Developer Story
   https://stackoverflow.com/story/ihani
